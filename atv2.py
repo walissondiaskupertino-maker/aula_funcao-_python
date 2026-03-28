@@ -1,4 +1,5 @@
-def calcular_media(num1+num2+num3):
-    media = num1+num2+num3/3
+def calcular_media(num1, num2, num3):
+    media = (num1 + num2 + num3) / 3
     return media
-    print("sua media é:",calcular_media(5,8,9))
+
+print("Sua média é:", calcular_media(9, 7, 8))
